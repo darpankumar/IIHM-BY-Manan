@@ -1,0 +1,84 @@
+{
+    "data": [
+    {
+        "id": "d241300d-213d-468a-9ea6-075a06e24f1b",
+        "name": "Hair Cut & Beard",
+        "category": "hair",
+        "description": "Professional hair cutting along with Beard and styling for all hair types",
+        "price": 250.0,
+        "duration": "45 mins",
+        "created_at": "2026-01-31T10:09:10.854355Z"
+    },
+    {
+        "id": "262931c4-5480-40d2-bdbb-3a0afa5a09f9",
+        "name": "Hair Coloring",
+        "category": "hair",
+        "description": "Expert hair coloring with premium products",
+        "price": 2500.0,
+        "duration": "2 hours",
+        "created_at": "2026-01-31T10:09:10.854372Z"
+    },
+    {
+        "id": "cef3c059-9e10-4c0d-9312-0f5c22554920",
+        "name": "Hair Treatment",
+        "category": "hair",
+        "description": "Deep conditioning and hair treatment",
+        "price": 1500.0,
+        "duration": "1 hour",
+        "created_at": "2026-01-31T10:09:10.854377Z"
+    },
+    {
+        "id": "46f0f0ac-e66a-49b2-8543-ccd77eb1f520",
+        "name": "Facial Treatment",
+        "category": "grooming",
+        "description": "Rejuvenating facial treatment for all skin types",
+        "price": 1200.0,
+        "duration": "1 hour",
+        "created_at": "2026-01-31T10:09:10.854386Z"
+    },
+    {
+        "id": "20b96150-7003-476c-ade2-3872e69a1156",
+        "name": "Male Grooming Package",
+        "category": "grooming",
+        "description": "Complete grooming package including hair, beard, and skincare",
+        "price": 2000.0,
+        "duration": "1.5 hours",
+        "created_at": "2026-01-31T10:09:10.854391Z"
+    },
+    {
+        "id": "463c64b3-af33-4dc3-a723-23c6ec78b68d",
+        "name": "Bridal Makeup",
+        "category": "bridal",
+        "description": "Complete bridal makeup with trial session",
+        "price": 15000.0,
+        "duration": "3 hours",
+        "created_at": "2026-01-31T10:09:10.854396Z"
+    },
+    {
+        "id": "dd69c58a-5e83-495e-8ea0-8f957ac12ca9",
+        "name": "Party Makeup",
+        "category": "bridal",
+        "description": "Elegant party makeup for special occasions",
+        "price": 3500.0,
+        "duration": "1.5 hours",
+        "created_at": "2026-01-31T10:09:10.854400Z"
+    },
+    {
+        "id": "b574729d-7c4b-4b1b-88f2-99d9979a3dd8",
+        "name": "Professional Hair Styling Course",
+        "category": "academy",
+        "description": "6-month comprehensive hair styling certification course",
+        "price": 50000.0,
+        "duration": "6 months",
+        "created_at": "2026-01-31T10:09:10.854406Z"
+    },
+    {
+        "id": "190bbb88-9fa1-419a-b3ff-4b6974bf25b7",
+        "name": "Makeup Artistry Course",
+        "category": "academy",
+        "description": "4-month professional makeup certification course",
+        "price": 45000.0,
+        "duration": "4 months",
+        "created_at": "2026-01-31T10:09:10.854410Z"
+    }
+]}

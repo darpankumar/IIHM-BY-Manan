@@ -1,0 +1,119 @@
+{ "data": [
+    {
+        "id": "eec639b2-ead3-4b6c-a222-56f92428d51c",
+        "category": "salon_interior",
+        "media_type": "image",
+        "image_url": "https://res.cloudinary.com/drnjbdxae/image/upload/v1769858278/salon_tc4tks.avif",
+        "title": "Salon Interior",
+        "created_at": "2026-01-31T10:09:10.854414Z"
+    },
+
+      {
+      "id": "9f12ab34-1111-4abc-9cde-123456video01",
+      "category": "students",
+      "media_type": "video",
+      "media_url": "https://res.cloudinary.com/drnjbdxae/video/upload/v1771077742/jagraon-seminar02-2_y5N2sEad_kl6ozl.mp4",
+      "thumbnail_url": "https://res.cloudinary.com/drnjbdxae/image/upload/v1771077916/mana_j4xm6m.png",
+      "title": "Academy Students Learning",
+      "created_at": "2026-02-14T12:00:00.000000Z"
+    },
+{
+        "id": "eec639b2-ead3-4b6c-a222-56f924ww28d51c",
+        "category": "salon_interior",
+        "media_type": "image",
+        "image_url": "https://res.cloudinary.com/drnjbdxae/image/upload/v1771075963/outside_zthk38.jpg",
+        "title": "Salon Interior",
+        "created_at": "2026-01-31T10:09:10.854414Z"
+    },
+    
+    {
+        "id": "c3aef0f2-95da-4eeb-9cc8-78102a41022e",
+        "category": "service_work",
+        "media_type": "image",
+        "image_url": "https://res.cloudinary.com/drnjbdxae/image/upload/v1769859802/IMG_4203_puukyh.png",
+        "title": "Hair Styling Work",
+        "created_at": "2026-01-31T10:09:10.854426Z"
+    },
+    {
+        "id": "529f67d9-ab8e-4465-9943-0913674f6838",
+        "category": "service_work",
+        "media_type": "image",
+        "image_url": "https://res.cloudinary.com/drnjbdxae/image/upload/v1769859809/IMG_4204_olxssn.png",
+        "title": "Hair Styling Work",
+        "created_at": "2026-01-31T10:09:10.854423Z"
+    },
+    
+    {
+        "id": "c3aef0f2-95da-4eeb-9cc8-78102a49991e",
+        "category": "service_work",
+        "media_type": "image",
+        "image_url": "https://res.cloudinary.com/drnjbdxae/image/upload/v1769859802/IMG_4205_jnazh9.png",
+        "title": "Professional Makeup",
+        "created_at": "2026-01-31T10:09:10.854426Z"
+    },
+    {
+        "id": "529f67d9-ab8e-4465-9943-0913674f6888",
+        "category": "service_work",
+        "media_type": "image",
+        "image_url": "https://res.cloudinary.com/drnjbdxae/image/upload/v1771074122/IMG_3991_ojjwwa.jpg",
+        "title": "Hair Styling Work",
+        "created_at": "2026-01-31T10:09:10.854423Z"
+    },
+    {
+        "id": "875580bf-5589-489e-a74c-a30e2fef2213",
+        "category": "certificates",
+        "media_type": "image",
+        "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&h=600&fit=crop",
+        "title": "Professional Certification",
+        "created_at": "2026-01-31T10:09:10.854438Z"
+    },
+    {
+        "id": "529f67d9-ab8e-4465-9943-0913674f6848",
+        "category": "service_work",
+        "media_type": "image",
+        "image_url": "https://res.cloudinary.com/drnjbdxae/image/upload/v1771074127/IMG_3992_cf82zx.jpg",
+        "title": "Hair Styling Work",
+        "created_at": "2026-01-31T10:09:10.854423Z"
+    },
+
+    {
+        "id": "529f67d9-ab8e-4465-9943-0913674f6855",
+        "category": "service_work",
+        "media_type": "image",
+        "image_url": "https://res.cloudinary.com/drnjbdxae/image/upload/v1771074123/IMG_3993_oiddd8.jpg",
+        "title": "Hair Styling Work",
+        "created_at": "2026-01-31T10:09:10.854423Z"
+    },
+    {
+        "id": "529f67d9-ab8e-4465-9943-0913674f68658",
+        "category": "service_work",
+        "media_type": "image",
+        "image_url": "https://res.cloudinary.com/drnjbdxae/image/upload/v1771074122/IMG_3989_cki8zh.jpg",
+        "title": "Hair Styling Work",
+        "created_at": "2026-01-31T10:09:10.854423Z"
+    },
+    {
+        "id": "529f67d9-ab8e-4465-9943-0913674f6878",
+        "category": "service_work",
+        "media_type": "image",
+        "image_url": "https://res.cloudinary.com/drnjbdxae/image/upload/v1771074122/IMG_3990_mnukww.jpg",
+        "title": "Hair Styling Work",
+        "created_at": "2026-01-31T10:09:10.854423Z"
+    },
+    {
+        "id": "e4b2a050-5a45-4604-87fa-c1233fbdf88c",
+        "category": "students",
+        "media_type": "image",
+        "image_url": "https://res.cloudinary.com/drnjbdxae/image/upload/v1771077008/WhatsApp_Image_2026-02-14_at_10.49.38_PM_ukbpr9.jpg",
+        "title": "Hands-on Training",
+        "created_at": "2026-01-31T10:09:10.854434Z"
+    },
+    {
+        "id": "6616db6d-03a4-412c-bc04-e69222f8cc8d",
+        "category": "students",
+        "media_type": "image",
+        "image_url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800&h=600&fit=crop",
+        "title": "Academy Students Learning",
+        "created_at": "2026-01-31T10:09:10.854430Z"
+    }
+]}
