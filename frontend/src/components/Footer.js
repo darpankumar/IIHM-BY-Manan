@@ -44,9 +44,9 @@ const Footer = () => {
               <a href="/services" className="block text-gray-400 hover:text-amber-500 transition-colors">
                 Services
               </a>
-              {/* <a href="/booking" className="block text-gray-400 hover:text-amber-500 transition-colors">
+              <a href="/booking" className="block text-gray-400 hover:text-amber-500 transition-colors">
                 Book Appointment
-              </a> */}
+              </a>
               <a href="/gallery" className="block text-gray-400 hover:text-amber-500 transition-colors">
                 Gallery
               </a>

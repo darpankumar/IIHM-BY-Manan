@@ -215,7 +215,7 @@ const Navbar = () => {
 
           {/* Mobile Button */}
           <Link
-            to="/contact"
+            to="/booking"
             onClick={() => setIsOpen(false)}
             className="block w-full text-center mt-4 px-5 py-3 text-sm font-semibold text-white bg-gradient-to-r from-amber-700 to-amber-500 rounded-full shadow-md"
           >

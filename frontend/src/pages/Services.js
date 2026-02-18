@@ -145,9 +145,9 @@ const Services = () => {
           <p className="text-lg text-gray-600 mb-8">
             Schedule your appointment today and experience premium beauty services
           </p>
-          {/* <Link to="/booking" className="btn-primary" data-testid="cta-booking-btn">
+          <Link to="/booking" className="btn-primary" data-testid="cta-booking-btn">
             Book Appointment
-          </Link> */}
+          </Link>
         </div>
       </div>
 
