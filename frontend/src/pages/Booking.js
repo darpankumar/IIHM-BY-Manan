@@ -51,14 +51,15 @@ const Booking = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     
-    if (!formData.name || !formData.phone || !formData.service || !formData.date || !formData.time) {
+    // if (!formData.name || !formData.phone || !formData.service || !formData.date || !formData.time) {
+     if (!formData.name || !formData.phone || !formData.service) {
       toast.error('Please fill all required fields');
       return;
     }
 
     setLoading(true);
     try {
-      await createAppointment(formData);
+      await createAppointment({...formData, date: new Date().toDateString()});
       toast.success('Appointment booked successfully! We will contact you soon.');
       setFormData({
         name: '',
@@ -175,7 +176,7 @@ const Booking = () => {
                 </Select>
               </div>
 
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              {/* <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div className="space-y-2">
                   <Label htmlFor="date" className="flex items-center space-x-2">
                     <Calendar className="w-4 h-4 text-amber-700" />
@@ -214,7 +215,7 @@ const Booking = () => {
                     </SelectContent>
                   </Select>
                 </div>
-              </div>
+              </div> */}
 
               <div className="space-y-2">
                 <Label htmlFor="message" className="flex items-center space-x-2">

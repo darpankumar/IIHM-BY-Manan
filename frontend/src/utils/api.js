@@ -23,7 +23,18 @@ export const login = (email, password) => api.post('/auth/login', { email, passw
 export const getCurrentUser = () => api.get('/auth/me');
 
 // Public Appointments
-export const createAppointment = (data) => api.post('/appointments', data);
+export const createAppointment = async (data) => {
+ await fetch("https://hook.eu1.make.com/e5yuhf6e6by0vo954mypj990xa7n4o7r", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "x-make-apikey": "value"
+    },
+    body: JSON.stringify(data)
+  });
+}
+
+//api.post('/appointments', data);
 
 // Public Contacts
 export const createContact = (data) => api.post('/contacts', data);

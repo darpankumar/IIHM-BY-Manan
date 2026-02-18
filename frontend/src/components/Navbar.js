@@ -171,7 +171,7 @@ const Navbar = () => {
 
             {/* Premium Button */}
             <Link
-              to="/contact"
+              to="/booking"
               className="ml-4 px-5 py-2 text-sm font-semibold text-white bg-gradient-to-r from-amber-700 to-amber-500 rounded-full shadow-md hover:shadow-lg hover:scale-105 transition-all duration-300"
             >
               Book Now
